@@ -1,0 +1,4 @@
+john 5
+anthony 7
+carrie 10
+bill 3
